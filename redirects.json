@@ -1,11 +1,17 @@
 {
-  "total": 2,
+  "total": 3,
   "links": {
     "charger-foldable": {
       "affiliateLink": "https://www.amazon.com/dp/B0D78Q2KWR?tag=tiktok01095-20",
       "trackingId": "tiktok01095-20",
       "asin": "B0D78Q2KWR",
       "platform": "tiktok"
+    },
+    "mac-book-pro-charger-100w-usb-c-charger-fast-charger": {
+      "affiliateLink": "https://www.amazon.com/dp/B0D59LHFTS?tag=ytshorts010c-20",
+      "trackingId": "ytshorts010c-20",
+      "asin": "B0D59LHFTS",
+      "platform": "youtube shorts"
     },
     "usb-c-to-usb-c-charging-cable-for-apple-2pack-10ft": {
       "affiliateLink": "https://www.amazon.com/dp/B0BJQ93CS9?tag=tiktok01095-20",
