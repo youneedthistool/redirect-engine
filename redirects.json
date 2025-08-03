@@ -1,10 +1,16 @@
 {
-  "total": 1,
+  "total": 2,
   "links": {
     "charger-foldable": {
       "affiliateLink": "https://www.amazon.com/dp/B0D78Q2KWR?tag=tiktok01095-20",
       "trackingId": "tiktok01095-20",
       "asin": "B0D78Q2KWR",
+      "platform": "tiktok"
+    },
+    "usb-c-to-usb-c-charging-cable-for-apple-2pack-10ft": {
+      "affiliateLink": "https://www.amazon.com/dp/B0BJQ93CS9?tag=tiktok01095-20",
+      "trackingId": "tiktok01095-20",
+      "asin": "B0BJQ93CS9",
       "platform": "tiktok"
     }
   }
