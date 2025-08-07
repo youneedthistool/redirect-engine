@@ -1,4 +1,17 @@
 {
-  "total": 0,
-  "links": {}
+  "total": 2,
+  "links": {
+    "charger-foldable": {
+      "affiliateLink": "https://www.amazon.com/dp/B0D78Q2KWR?tag=tiktok01095-20",
+      "trackingId": "tiktok01095-20",
+      "asin": "B0D78Q2KWR",
+      "platform": "tiktok"
+    },
+    "usb-c-cable-2-pack": {
+      "affiliateLink": "https://www.amazon.com/dp/B0DH7Z3HS1?tag=ytshorts010c-20",
+      "trackingId": "ytshorts010c-20",
+      "asin": "B0DH7Z3HS1",
+      "platform": "youtube shorts"
+    }
+  }
 }
