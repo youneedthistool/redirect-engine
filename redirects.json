@@ -1,47 +1,11 @@
 {
-  "total": 7,
+  "total": 1,
   "links": {
-    "charger-foldable": {
+    "-eneral": {
       "affiliateLink": "https://www.amazon.com/dp/B0D78Q2KWR?tag=tiktok01095-20",
       "trackingId": "tiktok01095-20",
       "asin": "B0D78Q2KWR",
       "platform": "tiktok"
-    },
-    "mac-book-pro-charger-100w-usb-c-charger-fast-charger": {
-      "affiliateLink": "https://www.amazon.com/dp/B0D59LHFTS?tag=ytshorts010c-20",
-      "trackingId": "ytshorts010c-20",
-      "asin": "B0D59LHFTS",
-      "platform": "youtube shorts"
-    },
-    "usb-c-to-usb-c-charging-cable-for-apple-2pack-10ft": {
-      "affiliateLink": "https://www.amazon.com/dp/B0BJQ93CS9?tag=tiktok01095-20",
-      "trackingId": "tiktok01095-20",
-      "asin": "B0BJQ93CS9",
-      "platform": "tiktok"
-    },
-    "monitor-stand-riser-2-tier-computer-stand-desk-organizers-and-accessories": {
-      "affiliateLink": "https://www.amazon.com/dp/B0FCY4PRML?tag=x2020-20",
-      "trackingId": "x2020-20",
-      "asin": "B0FCY4PRML",
-      "platform": "x"
-    },
-    "hokway-chenille-couch-cover-sofa-cov": {
-      "affiliateLink": "https://www.amazon.com/dp/B0F2F3DX8J?tag=instareels0103-20",
-      "trackingId": "instareels0103-20",
-      "asin": "B0F2F3DX8J",
-      "platform": "instagram reels"
-    },
-    "lovevook-laptop-tote-bag-for-women": {
-      "affiliateLink": "https://www.amazon.com/dp/B0B5G9VKW7?tag=ytshorts010c-20",
-      "trackingId": "ytshorts010c-20",
-      "asin": "B0B5G9VKW7",
-      "platform": "youtube shorts"
-    },
-    "felipe-varela-duffle-bag-with-shoes-compartment-and-adjustable-strap": {
-      "affiliateLink": "https://www.amazon.com/dp/B09C7WQ123?tag=instareels0103-20",
-      "trackingId": "instareels0103-20",
-      "asin": "B09C7WQ123",
-      "platform": "instagram reels"
     }
   }
 }
